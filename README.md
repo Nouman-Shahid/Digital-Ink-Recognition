@@ -69,7 +69,3 @@ flutter run
 | GET | `/api/imla/attempts/{child_id}` | Imla history for a child |
 | POST | `/api/progress` | Record a progress entry |
 | GET | `/api/progress/{child_id}/summary` | Progress summary for a child |
-
-## License
-
-MIT
